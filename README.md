@@ -111,7 +111,7 @@ An AI-based resume analysis and candidate ranking system.
 ## Contribution universe
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nishant20361/Nishant20361/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+  <img src="https://raw.githubusercontent.com/Nishant20361/Nishant20361/gh-pages/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
   <br /><br />
   <picture><source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" /><source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" /><img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph generated after the first workflow run" /></picture>
 </div>
